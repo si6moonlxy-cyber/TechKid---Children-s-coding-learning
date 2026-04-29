@@ -1,7 +1,6 @@
 # TechKids App — 产品需求文档（PRD）
 
 ### 1.1 AI API接口
-deepseek：sk-3668a78e09ec4e32b07ebd8d81095e67
 
 | 文档信息 | |
 |---------|--|
